@@ -8,21 +8,21 @@ The application is aimed at an audience of both the younger generation and older
 
 ## Features
 
--[x]Drawing on image with option to change its Brush's Color, Size, Opacity and Erasing.
--[x]Apply Filter Effect on image using MediaEffect
--[x]Adding/Editing Text with option to change its Color with Custom Fonts.
--[x]Adding Emoji with Custom Emoji Fonts.
--[x]Adding Images/Stickers
--[x]Pinch to Scale and Rotate views.
--[x]Undo and Redo for Brush and Views.
--[x]Deleting Views
--[x]Saving Photo after editing.
+- [x] __Users can register and sign in to mobile-application;__
+- [x] __Service provides user access to his storage;__
+- [x] __User can edit his photo:__
+  - [x] _Apply Filter Effect on image using MediaEffect;_
+  - [x] _Pinch to Scale and Rotate views.;_
+  - [x] _Deleting Views;_
+  - [x] _Undo and Redo for Brush and Views;_
+  - [x] _Adding/Editing Text with option to change its Color with Custom Fonts;_
+- [x] __Saving Photo after editing.__
 
 ## Benefits
 
--[x]Hassle free coding
--[x]Increase efficiency
--[x]Easy image editing
+-Hassle free coding
+-Increase efficiency
+-Easy image editing
 
 ## Team of developers:
 -Anna Onofriichuk: back-end developing, helping with front-end part.
