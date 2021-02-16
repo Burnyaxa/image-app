@@ -2,7 +2,7 @@
 --------------------------------------------------------
 ## WHY Cloud-based image editor?
 ------------------------------------------------------
-An Image Editor is an Android App to resize, set proportions, crop, apply filters and make adjustments for photos,with uploading to the cloud or storing the result in your gallery.
+***An Image Editor*** is an Android App to resize, set proportions, crop, apply filters and make adjustments for photos,with uploading to the cloud or storing the result in your gallery.
 
 The application is aimed at an audience of both the younger generation and older ages. Since in the bitter world such social networks as Instagram, Facebook, Twitter and so on, are very popular, a lot of people, bloggers, need a high-quality photo editor with a simple interface and improved functionality. Our App will help them to create quality photos and save them in a very convenient way. 
 
