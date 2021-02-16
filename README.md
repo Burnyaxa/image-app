@@ -30,8 +30,11 @@ The application is aimed at an audience of both the younger generation and older
 ## Team of developers:
 -------------------------------------------
 -Anna Onofriichuk: back-end developing, helping with front-end part.
+
 -Artem Supryhan: back-end developing, mobile developing
+
 -Vladimir Zhnakin:front-end developing, app design, responsible for organizing teamwork
+
 
 ## Technologies
 --------------------------------------------
