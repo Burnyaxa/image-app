@@ -42,9 +42,22 @@ The application is aimed at an audience of both the younger generation and older
 ```
 -C#/.Net
 -Xamarin using Monodroid framework
--
--
+- ASP .NET Core Web API
 ```
+### - DB technologies
+```
+- MS SQL
+- Entity Framework Core
+```
+### - Cloud technologies
+```
+- AWS
+- Cloudinary
+```
+## Prototype
+--------------------------------------------
+- link https://miro.com/app/board/o9J_lTnIy-c=/
+
 
 
 
