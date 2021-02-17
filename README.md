@@ -41,18 +41,22 @@ The application is aimed at an audience of both the younger generation and older
 ### - Back-end technologies
 ```
 -C#/.Net
+-ASP .NET Core Web API
+```
+### - Mobile technologies
+```
 -Xamarin using Monodroid framework
-- ASP .NET Core Web API
+-Android ver. 5.0+
 ```
 ### - DB technologies
 ```
-- MS SQL
-- Entity Framework Core
+-MS SQL
+-Entity Framework Core
 ```
 ### - Cloud technologies
 ```
-- AWS
-- Cloudinary
+-AWS
+-Cloudinary
 ```
 ## Prototype
 --------------------------------------------
