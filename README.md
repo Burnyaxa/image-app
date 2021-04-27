@@ -35,29 +35,6 @@ The application is aimed at an audience of both the younger generation and older
 
 -Vladimir Zhnakin:front-end developing, app design, responsible for organizing teamwork
 
-
-## Technologies
---------------------------------------------
-### - Back-end technologies
-```
--C#/.Net
--ASP .NET Core Web API
-```
-### - Mobile technologies
-```
--Xamarin using Monodroid framework
--Android ver. 5.0+
-```
-### - DB technologies
-```
--MS SQL
--Entity Framework Core
-```
-### - Cloud technologies
-```
--AWS
--Cloudinary
-```
 ## Prototype
 --------------------------------------------
 - link https://miro.com/app/board/o9J_lTnIy-c=/
