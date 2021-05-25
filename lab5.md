@@ -40,8 +40,6 @@ We can apply inbuild filter to the source images using
 
 We can also apply custom effect using `Custom.Builder`
 
-For more details check [Custom Filters](https://github.com/burhanrashid52/PhotoEditor/wiki/Filter-Effect)
-
 
 
 ## Text
@@ -70,7 +68,6 @@ Now we can edit the text with a view like this
 
 `mPhotoEditor.editText(rootView, inputText, colorCode);`
 
-If you want more customization on text. Please refer the wiki page for more details.
 
 
 ## Emoji
