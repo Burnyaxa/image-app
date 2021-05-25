@@ -12,7 +12,6 @@
 - [**Undo and Redo**](#undo-and-redo) for Brush and Views.
 - [**Deleting**](#deleting) Views
 - [**Saving**](#saving) Photo after editing.
-- More [**FAQ**](#faq).
 
 
 ## Drawing
