@@ -57,3 +57,13 @@ You can also provide your custom options while saving the edited image.
                     }
                 });
 ```
+
+
+Button saving:
+
+[button](img/button_saving.png)
+
+
+Successful saving:
+
+[sucsaving](img/edit_screen.png)
