@@ -64,11 +64,6 @@ Filters:
 
 ![photoeditorscreenshot](./img/filters.png)
 
-Moving button:
-
-![photoeditorscreenshot](./img/changing_position_process.png)
-![photoeditorscreenshot](./img/changing_position_process2.png)
-![photoeditorscreenshot](./img/position_changed.png)
 
 Eraser: 
 
@@ -83,4 +78,4 @@ Stickers:
 ![photoeditorscreenshot](./img/edit_screen_2.png)
 
 Adaptivity:
-![photoeditorscreenshot](./img/edit_screen_2.png)
+![photoeditorscreenshot](./img/adaptivity.png)
