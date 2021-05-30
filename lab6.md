@@ -14,9 +14,5 @@ Error example:
 
 Log in Google account: 
 
-![google](./img/google-sign-in.png)
-
-Log in Google account: 
-
 ![gallery](./img/gallery.png)
 
