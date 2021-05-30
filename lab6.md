@@ -8,7 +8,7 @@ We use Google drive to uploat photos. Also we use Google account tokens to save 
 
 Error example:
 
-![error](./img/gallery_error.png)
+![error](img/gallery_error.png)
 
 ### Workflow:
 
