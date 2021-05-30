@@ -83,4 +83,4 @@ Stickers:
 ![photoeditorscreenshot](./img/edit_screen_2.png)
 
 Adaptivity:
-![photoeditorscreenshot](./img/edit_screen_2.png)
+![photoeditorscreenshot](./img/adaptivity.png)
